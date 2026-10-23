@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Debug Unlock App</string>
+    <string name="login_title">Developer Access</string>
+    <string name="login_subtitle">Use the dev login to unlock features</string>
+    <string name="username_hint">Username</string>
+    <string name="password_hint">Password</string>
+    <string name="login_button">Login</string>
+    <string name="debug_toggle">Enable dev unlock</string>
+    <string name="logout_button">Logout</string>
+    <string name="feature_one">Feature 1</string>
+    <string name="feature_two">Feature 2</string>
+    <string name="feature_three">Feature 3</string>
+    <string name="feature_locked">This feature is locked in normal mode.</string>
+    <string name="login_error">Use the dev credentials or enable dev unlock.</string>
+    <string name="paywall_title">Unlock Pro Features</string>
+    <string name="paywall_body">Get unlimited access to premium tools, export presets, and advanced editing features.</string>
+    <string name="paywall_trial">Start free trial</string>
+    <string name="paywall_buy">Unlock for $9.99</string>
+    <string name="paywall_demo">Continue in demo mode</string>
+    <string name="paywall_dev">Use developer unlock</string>
+    <string name="feature_demo_notice">Demo mode enabled. Some features are limited.</string>
+    <string name="feature_unlocked_message">Feature unlocked</string>
+    <string name="paywall_error">This feature requires a valid unlock.</string>
+</resources>
